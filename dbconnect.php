@@ -6,7 +6,7 @@ define('Db_user','root');
 
 define('Db_pass','');
 
-define('Db_name','frontent');
+define('Db_name','xain');
 
 $dbconnect = mysqli_connect(Db_server,Db_user,Db_pass,Db_name);
 
